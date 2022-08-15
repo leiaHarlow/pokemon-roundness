@@ -4,7 +4,7 @@ import 'tailwindcss/tailwind.css';
 
 const Home: NextPage = () => {
 
-  return <div>Hello World</div>
+  return <div>Hello World!</div>
 };
 
 
